@@ -69,11 +69,11 @@ class CurrentFocus {
 
 ## 🌟 Featured Projects
 
-**Health Care App** - A comprehensive healthcare application for finding hospitals and pharmacies, managing appointments, medication reminders, and health records with AI chatbot assistance. Fully tested in Flutter with unit, widget, and integration tests.
+**Health Care App** - A comprehensive healthcare application for finding hospitals and pharmacies, managing appointments, medication reminders, and health records with AI chatbot assistance. Fully tested in Flutter with unit, widget, and integration tests. All tests are automated using GitHub Actions.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ssilith&repo=health_care_app&theme=tokyonight&hide_border=true)](https://github.com/Ssilith/health_care_app)
 
-**Todo App** - A task management application built with Flutter and Supabase, featuring authentication, and complete CRUD operations for tasks. Also fully tested.
+**Todo App** - A task management application built with Flutter and Supabase, featuring authentication, and complete CRUD operations for tasks. Tested and automated using GitHub Actions, as in the Health Care App.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ssilith&repo=todo_app&theme=tokyonight&hide_border=true)](https://github.com/Ssilith/todo_app)
 
