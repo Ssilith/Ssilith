@@ -54,15 +54,16 @@ I'm a passionate developer specializing in **Flutter** for mobile development an
 ```dart
 class CurrentFocus {
   final List<String> learning = [
-    'Building dynamic web interfaces with React',
-    'Advanced Flutter Animations',
-    'Node.js Microservices',
-    'Flutter Web and Mobile Development'
+    'Currently exploring how to build dynamic web interfaces with React',
+    'Getting hands-on experience with TypeScript',
+    'Learning advanced animation techniques in Flutter',
+    'Diving into microservices architecture using Node.js',
+    'Working on cross-platform development with Flutter for web and mobile'
   ];
   
   final Map<String, String> workingOn = {
     'Mobile': 'Cross-platform Flutter apps',
-    'Backend': 'RESTful APIs with Node.js',
+    'Backend': 'RESTful APIs with Node.js and Express.js',
     'Database': 'Optimizing MongoDB queries'
   };
 }
