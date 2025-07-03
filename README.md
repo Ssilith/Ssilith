@@ -71,7 +71,7 @@ class CurrentFocus {
 
 ## 🌟 Featured Projects
 
-**Health Care App** - A comprehensive healthcare application for finding hospitals and pharmacies, managing appointments, medication reminders, and health records with AI chatbot assistance. Fully tested in Flutter with unit, widget, and integration tests. All tests are automated using GitHub Actions.
+**Health Care App** - A comprehensive healthcare application for finding hospitals and pharmacies, managing appointments and health records with AI chatbot assistance. Fully tested in Flutter with unit, widget, and integration tests. All tests are automated using GitHub Actions.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ssilith&repo=health_care_app&theme=tokyonight&hide_border=true)](https://github.com/Ssilith/health_care_app)
 
