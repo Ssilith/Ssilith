@@ -98,7 +98,7 @@ class CurrentFocus {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katarzyna-hajduk-73b78026b/)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/katarzyna-hajduk/badges)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.hajduk.wroclaw@gmail.com)
-[![CV](https://img.shields.io/badge/CV-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://drive.google.com/file/d/1Bza6KuOVfIQIv3D5EntZjvl_ZQ81tpbU/view?usp=drive_link)
+[![CV](https://img.shields.io/badge/CV-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://drive.google.com/file/d/1_uReKyBQMD-7j3PMy9tKO6AdJl61TvZP/view?usp=drive_link)
 
 </div>
 
